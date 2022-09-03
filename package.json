@@ -1,0 +1,38 @@
+{
+  "name": "finalprojecttodoapp",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "~1.15.0",
+    "@react-native-community/checkbox": "^0.5.10",
+    "@react-native-community/datetimepicker": "^4.0.0",
+    "@react-navigation/bottom-tabs": "^6.2.0",
+    "@react-navigation/native": "^6.0.8",
+    "@react-navigation/stack": "^6.1.1",
+    "axios": "^0.26.0",
+    "expo": "~44.0.0",
+    "expo-checkbox": "~2.0.0",
+    "expo-location": "~14.0.1",
+    "expo-status-bar": "~1.2.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "0.64.3",
+    "react-native-calendario": "^3.1.0",
+    "react-native-calendars": "^1.1282.0",
+    "react-native-elements": "^3.4.2",
+    "react-native-month": "^1.1.0",
+    "react-native-vector-icons": "^9.1.0",
+    "react-native-web": "0.17.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}
